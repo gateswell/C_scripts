@@ -7,6 +7,6 @@ int main(void)
 	float fah;
 	printf("Enter a fahrenheit temp: ");
 	scanf("%f",&fah);
-	printf("celsius temperature is: %.2fC\n",(fah-FREEZING_PT)*SCALE_FACTOR);
+	printf("celsius temperature is: %fC\n",(fah-FREEZING_PT)*SCALE_FACTOR);
 	return 0;
 }
