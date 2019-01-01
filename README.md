@@ -1,3 +1,2 @@
-* Learning `C`
-** C programming: a mordern approach
-
+* Learning `C` 
+** C programming: a mordern approach 
