@@ -3,7 +3,7 @@ int main(void){
 	int num,dom;
 	printf("Enter a number:");
 	scanf("%d",&num);
-	printf("The reversal id:" );
+	printf("The reversal is:" );
 	do{
 		dom= num%10;
 		num /=10;
