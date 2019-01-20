@@ -23,9 +23,9 @@ int main(void){
 			case 'Q':case 'Z':
 				value == 10;break;
 			default:
-				printf("wrong word!");
+				printf("wrong word!");goto out;
 		}
 	}
 	printf("Scrabble value: %d",value);
-	return 0;
+	out:return 0;
 } 
